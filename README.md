@@ -12,7 +12,6 @@
 <div>
   <a href="https://github.com/luizz01001">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizz01001&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizz01001&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ## Linguagens que uso no dia a dia
