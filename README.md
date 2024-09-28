@@ -5,9 +5,10 @@
 ## Olá! Sou o Luiz 🧑🏻‍💻
 
 
-- Estudo Segurança Ofensiva.
+- Red Team Analyst.
 - CTF Player.
-- Aprendendo a me virar com Linux.
+- Hacking is NOT a Crime!
+- Linux is FREEdom.
 
 <div>
   <a href="https://github.com/luizz01001">
